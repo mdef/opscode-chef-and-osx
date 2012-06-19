@@ -7,6 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 #
+#TODO: check if app installed with system_profiler SPApplicationsDataType
 
 dmg_package "NetBeans 7.1.1".gsub(/ /, "\\ ") do
     type "mpkg"
