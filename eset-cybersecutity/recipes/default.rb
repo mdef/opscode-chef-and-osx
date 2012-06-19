@@ -6,6 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+#TODO: check if app installed with system_profiler SPApplicationsDataType
 
 cookbook_file "/tmp/eset_cybersecurity_en.dmg" do
 	source "eset_cybersecurity_en.dmg"
